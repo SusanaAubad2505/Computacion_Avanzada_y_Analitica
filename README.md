@@ -1,4 +1,4 @@
-# Computación Avanzada y Analítica - Version Docente
+# Computación Avanzada y Analítica - Version Estudiante
 
 En este espacio se encuentra el curso completo de Computación Avanzada y Analítica
 
